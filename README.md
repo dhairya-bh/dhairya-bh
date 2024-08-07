@@ -11,13 +11,13 @@
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   <img src="https://profile-counter.glitch.me/dhairya-bh/count.svg"/>
 
- [![Activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOR-OM&show_icons=true&theme=radical)](https://github.com/GOR-OM/)
+ [![Activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairya-bh&show_icons=true&theme=radical)](https://github.com/dhairya-bh/)
 
  <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOR-OM&custom_title=GOR-OM's%20GitHub%20Activity%20Graph&bg_color=141321&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="GOR-OM's Github Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairya-bh&custom_title=dhairya-bh's%20GitHub%20Activity%20Graph&bg_color=141321&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="dhairya-bh's Github Activity Graph" width="100%"/>
 </div>
 
-[![GOR-OM's GitHub stats](https://github-readme-stats.vercel.app/api?username=GOR-OM&show_icons=true&theme=radical)](https://github.com/GOR-OM)
+[![dhairya-bh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairya-bh&show_icons=true&theme=radical)](https://github.com/dhairya-bh)
 
 
 <img src="github-user-contribution.svg" />
@@ -54,11 +54,11 @@
 <br>
 
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOR-OM&theme=vision-friendly-darkshow_icons=true&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairya-bh&theme=vision-friendly-darkshow_icons=true&layout=donut)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> GitHub Streak Stats
 --- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GOR-OM&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhairya-bh&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 
    
