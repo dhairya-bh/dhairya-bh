@@ -9,7 +9,7 @@
 
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/GOR-OM/count.svg"/>
+  <img src="https://profile-counter.glitch.me/dhairya-bh/count.svg"/>
 
  [![Activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOR-OM&show_icons=true&theme=radical)](https://github.com/GOR-OM/)
 
