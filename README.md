@@ -2,30 +2,8 @@
 
 
 <h1  align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>  Hi <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50px"/>, I'm Om Gor  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/> </h1> 
-<h3 align="center">🚀Welcome to my GitHub! I'm an enthusiastic MERN stack developer and an explorer of the fascinating worlds of Machine Learning (ML) and Artificial Intelligence (AI). Currently studying at DA-IICT College, India.</h3>
+<h3 align="center">🚀Welcome to my GitHub! I'm an enthusiastic Full stack developer. Currently studying at DA-IICT College, India.</h3>
 <img align = "right"  width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
-
-
-## What I'm Currently Up To:
-
-👨‍💻 On the MERN side, I'm actively engaged in:
-
-- Designing seamless user interfaces with React.
-- Architecting efficient back-end systems using Node.js and Express.js.
-- Connecting the dots with MongoDB for data-driven decisions.
-
-🔬 Simultaneously, my focus in ML includes:
-
-- Developing and training machine learning models.
-- Exploring neural networks and deep learning.
-- Applying AI and data-driven approaches to solve real-world problems.
-
-
-## Fun Facts About Me:
-
-🌌 When I'm not immersed in code, I'm often exploring virtual worlds, not just as a gamer but also as a developer. I enjoy creating AI-driven experiences and enhancing virtual realms one algorithm at a time. You can often find me in the gaming universe, mastering digital realms, and saving galaxies one pixel at a time! 🎮🤖
-
-
 
 ## 📊 GitHub Stats
 
