@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="left"> 
+<p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   <img src="https://profile-counter.glitch.me/GOR-OM/count.svg"/>
 
